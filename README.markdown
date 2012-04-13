@@ -41,7 +41,9 @@ Magazines
 
 Some origami masters
 --------------------
+
 Just a sample, not all of them by far.
+
 * [Robert Lang](http://www.langorigami.com/)
 * [Eric Joisel](http://www.ericjoisel.com/)
 * [David Brill](http://www.brilliantorigami.com/)
