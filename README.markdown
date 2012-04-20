@@ -29,7 +29,7 @@ Books
 * [Origami Shop](http://www.origami-shop.com/) - Many, many origami books and papers.
 * [Happy Folding](http://www.happyfolding.com/books) - Sara Adam's library of origami books.
 * [Origami Design Secrets](http://www.langorigami.com/books/books.php) - Robert Lang's guide to creating original origami designs.
-* [Genuine Origami: 43 Mathematically-Based Models, From Simle to Complex](http://www.amazon.com/Genuine-Origami-Mathematically-Based-Models-Complex/dp/4889962514/ref=sr_1_7?ie=UTF8&qid=1334295104&sr=8-7)
+* [Genuine Origami: 43 Mathematically-Based Models, From Simple to Complex](http://www.amazon.com/Genuine-Origami-Mathematically-Based-Models-Complex/dp/4889962514/ref=sr_1_7?ie=UTF8&qid=1334295104&sr=8-7)
 
 Magazines
 ---------
