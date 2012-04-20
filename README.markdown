@@ -66,6 +66,7 @@ Blogs
 * [Origami Tessellations](http://www.origamitessellations.com/)
 * [Have Paper, Will Travel](http://havepaperwilltravel.blogspot.com/)
 * [The Fitful Flog](http://origami.oschene.com/)
+* [Origamiancy](http://origamiancy.com/)
 
 More
 ----
